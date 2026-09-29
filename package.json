@@ -1,0 +1,9 @@
+{
+  "name": "pes2009-online-relay",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WebSocket room relay for the PES 2009 Godot prototype",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"ws": "^8.18.0"}
+}
